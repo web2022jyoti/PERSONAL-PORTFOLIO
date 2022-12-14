@@ -457,9 +457,9 @@ margin-top: 10px;
     font-size: 18px;
     margin-bottom: 15px;
     text-transform: capitalize;
-    color: var(--text-black-700);
+    
 }
-.timeline-title{
+.about .about-content .timeline .timeline-title{
     color: var(--skin-color);
 }
 .about .about-content .timeline .timeline-text{
